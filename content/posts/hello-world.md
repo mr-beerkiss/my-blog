@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2019-09-28T23:06:58+10:00
-draft: true
 ---
 
 # Hi there!
@@ -14,14 +13,14 @@ I've attempted _several_ blogs in the past, and never really found a good publis
 Perhaps all the newness will help keep me interested. I've got a long laundry list of things I'd 
 like to accomplish. Namely:
 
-1. High PWA scores in Lighthouse
-1. Using service workers for smart caching via [Workbox](https://developers.google.com/web/tools/workbox/)
-1. Gratuitous use of Web Components (basically just using all the cool [Google Web Tools](https://developers.google.com/web/tools))
-1. Gratuitous use of [Web Assembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-1. [Integration](https://nb2hugo.netlify.com/post/blogging-with-jupyter-notebooks-and-hugo/) of [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
-1. Adding cool terminal recordings with [asciinema](https://asciinema.org)
-1. Separating sentences with only a single space
-1. Write a weekly blog post
+- [ ] High PWA scores in Lighthouse
+- [ ] Using service workers for smart caching via [Workbox](https://developers.google.com/web/tools/workbox/)
+- [ ] Gratuitous use of Web Components (basically just using all the cool [Google Web Tools](https://developers.google.com/web/tools))
+- [ ] Gratuitous use of [Web Assembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- [ ] [Integration](https://nb2hugo.netlify.com/post/blogging-with-jupyter-notebooks-and-hugo/) of [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+- [ ] Adding cool terminal recordings with [asciinema](https://asciinema.org)
+- [ ] Separating sentences with only a single space
+- [ ] Write a weekly blog post
 
 You'd think for a blog site that last item would be higher on the list. Shows how crooked my 
 priorities are.
